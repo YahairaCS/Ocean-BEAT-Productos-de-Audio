@@ -6,7 +6,7 @@
     box-sizing: border-box;
     text-decoration: none;
 
- }
+}
 
  :root{
    --background: linear-gradient(135deg, #d65ed0b0 0%, #4d63e0b0 100%);
@@ -14,8 +14,3 @@
    --color-secondary: #8f0c5d;
    --boton-padding: 20px 40px;
 }
-
-body {
-    margin: 0;
-    background: white;
-  }
